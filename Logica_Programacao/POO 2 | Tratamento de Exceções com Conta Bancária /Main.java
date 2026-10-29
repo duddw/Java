@@ -1,5 +1,4 @@
 // Main
-package Bimestre4.AT13;
 
 public class Main {
     static void main() throws SaldoInsuficienteException {
